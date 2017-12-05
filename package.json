@@ -1,0 +1,17 @@
+{
+  "name": "c_task_runner",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "author": "yokotak0527",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "node-notifier": "^5.1.2"
+  }
+}
